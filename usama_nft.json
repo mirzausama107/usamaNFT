@@ -1,0 +1,18 @@
+{
+	"name":"Muhammad Usama Abid",
+	"description":"Making inter planetory travel possible and pushing the boundaries for mankind.",
+	"image":"https://gateway.pinata.cloud/ipfs/QmPovWmKxUJVPuWPuWrMsda5W98g8MKfKTPni5LZ6tvNPs",
+
+	"attributes":
+	[
+		{
+			"trait_type":"Zodiac","value":"Cancer"
+		},
+		{
+			"trait_type":"Height","value":"6'1"
+		},
+		{	"trait_type":"Personality Type","value":"INTJ"
+		}
+	]
+}
+
